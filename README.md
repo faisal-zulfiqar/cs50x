@@ -6,3 +6,10 @@
 
 - [pset0: Scratch](/pset0)
   * [scratch](/pset0/scratch)
+- [pset1: C](/pset1)
+  * [hello](/pset1/hello)
+  * [mario](/pset1/mario)
+    + [less](/pset1/mario/less)
+    + [more](/pset1/mario/more)
+  * [cash](/pset1/cash)
+  * [credit](/pset1/credit)
