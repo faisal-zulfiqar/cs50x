@@ -13,3 +13,7 @@
     + [more](/pset1/mario/more)
   * [cash](/pset1/cash)
   * [credit](/pset1/credit)
+- [pset2: Crypto](/pset2)
+  * [caesar](/pset2/caesar)
+  * [vigenere](/pset2/vigenere)
+  * [crack](/pset2/crack)
