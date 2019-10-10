@@ -17,3 +17,7 @@
   * [caesar](/pset2/caesar)
   * [vigenere](/pset2/vigenere)
   * [crack](/pset2/crack)
+- [pset3: Forensics](/pset3)
+  * [whodunit](/pset3/whodunit)
+  * [resize](/pset3/resize)
+  * [recover](/pset3/recover)
