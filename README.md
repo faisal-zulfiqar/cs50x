@@ -23,3 +23,5 @@
   * [recover](/pset3/recover)
 - [pset4: Speller](/pset4)
   * [speller](/pset4/speller)
+- [pset5: Homepage](/pset5)
+  * [homepage](/pset4/homepage)
