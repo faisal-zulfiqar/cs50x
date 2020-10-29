@@ -32,3 +32,5 @@
   * [cash](/pset6/cash)
   * [caesar](/pset6/caesar)
   * [bleep](/pset6/bleep)
+- [pset7: Similarities](/pset7)
+  * [similarities](/pset7/similarities)
