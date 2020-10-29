@@ -21,3 +21,5 @@
   * [whodunit](/pset3/whodunit)
   * [resize](/pset3/resize)
   * [recover](/pset3/recover)
+- [pset4: Speller](/pset4)
+  * [speller](/pset4/speller)
